@@ -1,1 +1,1 @@
-# Rummikub-Simulation-with-Rreinforcement-Learning
+# Rummikub-Simulation-with-Reinforcement-Learning
